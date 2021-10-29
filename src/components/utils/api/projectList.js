@@ -41,7 +41,7 @@ export default [
         bgColor:'#2ebaee'
     },
     {
-        id: 5,
+        id: 6,
         title:'Megabox Re-Design Web page (작업중)',
         explain:'HTML, CSS, JavaScript, JQuery를 이용한 반응형 웹페이지 입니다.',
         viewURL:'http://roongz.dothome.co.kr/megabox/',
