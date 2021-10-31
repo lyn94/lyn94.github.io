@@ -12,7 +12,7 @@ export default [
         title:'Movie List',
         explain:'React Hooks를 이용한 영화 순위 사이트 입니다.',
         viewURL:'https://lyn94.github.io/movie/',
-        githubURL:'https://github.com/lyn94/movie/tree/gh-pages',
+        githubURL:'https://github.com/lyn94/movie/tree/main',
         bgColor:'#FFC107'
     },
     {
@@ -20,7 +20,7 @@ export default [
         title:'Customer Admin page',
         explain:'React Hooks를 이용하여 만든 간단한 고객리스트 관리페이지 입니다.',
         viewURL:'https://lyn94.github.io/customeradmin/',
-        githubURL:'https://github.com/lyn94/customeradmin/tree/gh-pages',
+        githubURL:'https://github.com/lyn94/customeradmin/tree/main',
         bgColor:'#2ebaee'
         
     },
@@ -45,8 +45,8 @@ export default [
         id: 5,
         title:'Megabox Re-Design Web page (작업중)',
         explain:'HTML, CSS, JavaScript, JQuery를 이용한 반응형 웹페이지 입니다.',
-        viewURL:'http://roongz.dothome.co.kr/megabox/',
-        githubURL:'https://github.com/lyn94/megabox',
+        viewURL:'https://lyn94.github.io/megabox/',
+        githubURL:'https://github.com/lyn94/megabox/tree/master',
         bgColor:'#391a6a'
     }
 
