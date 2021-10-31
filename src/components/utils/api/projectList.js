@@ -17,31 +17,32 @@ export default [
     },
     {
         id: 3,
-        title:'Responsive Web Page',
-        explain:'CSS와 JavaScript를 이용하여 다양한 효과를 구현하였습니다.',
-        viewURL:'http://roongz.dothome.co.kr/responsive/html5/',
-        githubURL:'https://github.com/lyn94/hollyscoffee',
-        bgColor:''
-        
-    },
-    {
-        id: 4,
-        title:'Hollys Coffee',
-        explain:'HTML, CSS, JavaScript, JQuery를 이용한 반응형 웹페이지 입니다.',
-        viewURL:'http://roongz.dothome.co.kr/hollys/index.html',
-        githubURL:'#',
-        bgColor:'#b92528'
-    },
-    {
-        id: 5,
         title:'Customer Admin page',
         explain:'React Hooks를 이용하여 만든 간단한 고객리스트 관리페이지 입니다.',
         viewURL:'https://lyn94.github.io/customeradmin/',
         githubURL:'https://github.com/lyn94/customeradmin/tree/gh-pages',
         bgColor:'#2ebaee'
+        
+    },
+    // {
+    //     id: 4,
+    //     title:'Hollys Coffee',
+    //     explain:'HTML, CSS, JavaScript, JQuery를 이용한 반응형 웹페이지 입니다.',
+    //     viewURL:'http://roongz.dothome.co.kr/hollys/index.html',
+    //     githubURL:'#',
+    //     bgColor:'#b92528'
+    // },
+    {
+        
+        id: 4,
+        title:'Responsive Web Page',
+        explain:'CSS와 JavaScript를 이용하여 다양한 효과를 구현하였습니다.',
+        viewURL:'http://roongz.dothome.co.kr/responsive/html5/',
+        githubURL:'https://github.com/lyn94/responsive',
+        bgColor:''
     },
     {
-        id: 6,
+        id: 5,
         title:'Megabox Re-Design Web page (작업중)',
         explain:'HTML, CSS, JavaScript, JQuery를 이용한 반응형 웹페이지 입니다.',
         viewURL:'http://roongz.dothome.co.kr/megabox/',

@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { Main } from '../styled/Style'
-import '../utils/js/myScript'
 
 const Intro = () => {
     // 타이핑효과
