@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# 비상업적 용도로 제작된 프론트엔드 포트폴리오 사이트 입니다.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
