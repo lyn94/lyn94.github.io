@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@next/font": "13.1.6",
@@ -14,6 +16,7 @@
     "@types/react": "18.0.27",
     "@types/react-dom": "18.0.10",
     "eslint-config-next": "13.1.6",
+    "gh-pages": "^5.0.0",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -33,5 +36,6 @@
     "prettier": "^2.8.4",
     "prettier-plugin-tailwindcss": "^0.2.2",
     "tailwindcss": "^3.2.6"
-  }
+  },
+  "homepage": "https://lyn94.github.io/"
 }
