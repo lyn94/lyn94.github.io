@@ -4,7 +4,7 @@ import {
 
 export default function Document() {
   return (
-    <Html lang="en">
+    <Html lang="en" className='dark:bg-white'>
       <Head />
       <body>
         <Main />
