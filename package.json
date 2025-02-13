@@ -5,7 +5,7 @@
   "description": "Minimal Mistakes 2 column Jekyll theme.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmistakes/minimal-mistakes.git"
+    "url": "https://github.com/lyn94/lyn94.github.io.git"
   },
   "keywords": [
     "jekyll",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/mmistakes/minimal-mistakes/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://lyn94.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
