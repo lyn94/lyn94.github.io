@@ -114,7 +114,7 @@ analytics:
 author:
   name: "곰치"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "웹 개발자 입니다. 이것저것 기록합니다."
+  bio: "웹 개발자 입니다. <br>이것저것 기록합니다."
   # location: "Somewhere"
   email:
   links:
