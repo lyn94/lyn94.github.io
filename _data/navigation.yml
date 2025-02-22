@@ -6,7 +6,7 @@ main:
     url: /
   - title: "카테고리"
     url: /categories
-docs:
+sidebar-category:
   - title: "개발"
     children:
       - title: "책"
