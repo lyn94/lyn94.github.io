@@ -2,18 +2,18 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "개발"
-    url: /dev
-  - title: "책"
-    url: /books
-  - title: "그 외 여러가지"
-    url: /etc
-sidebar-category:
+  - title: "홈"
+    url: /
   - title: "카테고리"
+    url: /categories
+docs:
+  - title: "개발"
     children:
-      - title: "개발"
-        url: "/dev"
       - title: "책"
-        url: "/books"
-      - title: "그 외 여러가지"
-        url: "/etc"
+        url: "/categories/dev/books"
+      - title: "시행착오 모음집"
+        url: "/categories/dev/exercise"
+  - title: "이것저것"
+    children:
+      - title: "여러가지"
+        url: "/categories/etc"
