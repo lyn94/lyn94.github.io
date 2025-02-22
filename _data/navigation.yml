@@ -3,11 +3,11 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "개발"
-    url: /dev/
+    url: /dev
   - title: "책"
-    url: /books/
+    url: /books
   - title: "그 외 여러가지"
-    url: /etc/
+    url: /etc
 sidebar-category:
   - title: "카테고리"
     children:
